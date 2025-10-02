@@ -1,0 +1,62 @@
+{
+    "enterprise" : {
+        "name" : "Cablemag Telecomunicaciones Ltda NIT: 806.000.553-5",
+        "address" : "Calle 11 No 3-35 Barrio Centro MAGANGUÉ-BOLIVAR Telefax: 687 85 63 - 687 56 24 Movil: 315 860 72 40",
+        "url" : "www.cablemag.net.com",
+        "resolutions" : "REGIMEN COMÚN - RESOLUCIÓN HABILITADA DIAN No. 18764083877432 DE 2024-11-22 AUTORIZADA DE 877063 AL 2000000"
+    },
+
+    "invoice": {
+        "cufe":"fa11a7903e875d4b83ec5e7059ff48e1ad562015385e2c78b764fdbbdbae8d989293b2877a66aa8472b7c01f5015e674",
+        "prefijo" : "CMAG",
+        "consecutivo" : "922227",
+        "fechaEmision" : "2025-08-01 00:00:00",
+        "pagoOportuno" : "2025-08-15",
+        "mesPagar" : "Julio",
+        "fechaSuspensión" : "2025-08-16"
+    },
+    "client" : {
+        "referencia" : "21257900233015",
+        "nombre" : "ENTERPRISE MANAGEMENT SERVICES S.A.S",
+        "document" : "NI 900233015",
+        "dirInstalacion" : "MIRAFLORES SUBESTACION ELECTRICA",
+        "dirCorrespondencia" : "MIRAFLORES SUBESTACION ELECTRICA"
+    },
+
+    "pendiente":{
+        "saldo" : [
+            {"concepto" : "2025-07-02 SERVICIO DE COMUNICACION PLUS COMERCIAL" , "cantidad" :"1" , "vUnitario":"94.008,00" , "subTotal":"94.008,00"}
+        ],
+        "base" : 94008,
+        "impuesto":0,
+        "total" : 94008
+    },
+    "consumo":{
+        "saldo" : [
+            {"concepto" : "2025-07-03 SERVICIO DE COMUNICACION PLUS COMERCIAL" , "cantidad" :"1" , "vUnitario":"6.267,00" , "subTotal":"6.267,00"},
+            {"concepto" : "2025-07-31 SERVICIO DE COMUNICACION PLUS COMERCIAL" , "cantidad" :"1" , "vUnitario":"84.607,00" , "subTotal":"84.607,00"}
+
+        ],
+        "base" : 76364,
+        "impuesto" : 14510,
+        "total" : 90874
+    },
+
+    "piePagina" : "Contrato de Concesión No. 186-99. Vigilado y Regulado por la Comisión Nacional de Televisión - CNTV. Calle 72 No. 12-77 Santafé de Bogotá",
+    "observacion" : "Si usted encuentra inconsistencia en los valores de esta factura, no se preocupe! En nuestras oficinas atenderemos su caso. Migramos de tecnología para mejorar nuestros servicios.",
+    "pago" : {
+        "fecha" : "",
+        "punto" : "",
+        "monto" : ""
+    },
+    "pqr" :{
+        "telefono" : "687 8563/687 5624",
+        "direccion" : "Calle 11 No 3 35 Barrio Centro",
+        "email" : "cablemagtv@yahoo.com"
+    },
+    "serial" : {
+        "codigo"  :"415770999865983480202125790023301539001848829620250815",
+        "mostrar" : "(415)7709998659834(8020)21257900233015(3900)184882(96)20250815"
+    }
+    
+}
